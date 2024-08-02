@@ -2,6 +2,8 @@
 target/
 *.iml
 
+# Postgre Data
+hapi.postgress.data/
 # Compiled class file
 *.class
 
